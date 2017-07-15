@@ -1,0 +1,9 @@
+E:\Text_editor\Text-editor\TextEditor\TextEditor\bin\Debug\TextEditor.exe
+E:\Text_editor\Text-editor\TextEditor\TextEditor\bin\Debug\TextEditor.pdb
+E:\Text_editor\Text-editor\TextEditor\TextEditor\bin\Debug\TextEditor.BL.dll
+E:\Text_editor\Text-editor\TextEditor\TextEditor\bin\Debug\TextEditor.BL.pdb
+E:\Text_editor\Text-editor\TextEditor\TextEditor\obj\x86\Debug\TextEditor.csprojResolveAssemblyReference.cache
+E:\Text_editor\Text-editor\TextEditor\TextEditor\obj\x86\Debug\TextEditor.Properties.Resources.resources
+E:\Text_editor\Text-editor\TextEditor\TextEditor\obj\x86\Debug\TextEditor.csproj.GenerateResource.Cache
+E:\Text_editor\Text-editor\TextEditor\TextEditor\obj\x86\Debug\TextEditor.exe
+E:\Text_editor\Text-editor\TextEditor\TextEditor\obj\x86\Debug\TextEditor.pdb
