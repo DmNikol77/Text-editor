@@ -2,4 +2,3 @@ E:\Text_editor\Text-editor\TextEditor\TextEditor.BL\bin\Debug\TextEditor.BL.dll
 E:\Text_editor\Text-editor\TextEditor\TextEditor.BL\bin\Debug\TextEditor.BL.pdb
 E:\Text_editor\Text-editor\TextEditor\TextEditor.BL\obj\Debug\TextEditor.BL.dll
 E:\Text_editor\Text-editor\TextEditor\TextEditor.BL\obj\Debug\TextEditor.BL.pdb
-E:\Text_editor\Text-editor\TextEditor\TextEditor.BL\obj\Debug\TextEditor.BL.csprojResolveAssemblyReference.cache

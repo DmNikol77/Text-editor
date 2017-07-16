@@ -7,3 +7,4 @@ E:\Text_editor\Text-editor\TextEditor\TextEditor\obj\x86\Debug\TextEditor.Proper
 E:\Text_editor\Text-editor\TextEditor\TextEditor\obj\x86\Debug\TextEditor.csproj.GenerateResource.Cache
 E:\Text_editor\Text-editor\TextEditor\TextEditor\obj\x86\Debug\TextEditor.exe
 E:\Text_editor\Text-editor\TextEditor\TextEditor\obj\x86\Debug\TextEditor.pdb
+E:\Text_editor\Text-editor\TextEditor\TextEditor\obj\x86\Debug\TextEditor.MainForm.resources
