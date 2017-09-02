@@ -6,7 +6,17 @@ using System.IO;
 
 namespace TextEditor.BL
 {
-    public class FileManager
+    public interface IFileManager
+    {
+        bool IsExist(string filePath);
+        string GetContent(string filePath);
+        string GetContent(string filePath, Encoding encoding);
+        void SaveContent(string filePath, string content);
+        void SaveContent(string filePath, string content, Encoding encoding);
+        int GetSymbolCount(string content);
+    }
+
+    public class FileManager : IFileManager
     {
         private readonly Encoding defaultEncoding = Encoding.GetEncoding(1251);
 

@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Windows.Forms;
 
+using TextEditor.BL;
+
 namespace TextEditor
 {
     static class Program
@@ -15,7 +17,14 @@ namespace TextEditor
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new MainForm());
+
+            MainForm form = new MainForm();
+            FileManager manager = new FileManager();
+            MessageService service = new MessageService();
+
+            MainPresenter presenter = new MainPresenter(form, manager, service);
+
+            Application.Run(form);
         }
     }
 }
